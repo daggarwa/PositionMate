@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Determining your current position</string>
+    <string name="app_name">Position Mate</string>
+</resources>
